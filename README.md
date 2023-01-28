@@ -1,2 +1,6 @@
-# Data-Science-and-Eng-Methods_002746471
-Data Science and Eng Methods
+
+Name: Divya Myneni
+
+NEU ID: 002746471
+
+MAIL: myneni.d@northeastern.edu
